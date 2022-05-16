@@ -1,1 +1,1 @@
-First practice with HTML and CSS using Float
+First practice make a simple website with Float using HTML and CSS
